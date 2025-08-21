@@ -1,7 +1,7 @@
 # ESP32 Meteomatics dynamic URL Creator
 Using the Meteomatics.com Weather API requires to build a dynamic API URL, and this project is creating the API by getting the current date and time for your local timezone and UTC/GMT timezone.
 
-It is a supplementary project and article for other articles regarding Meteomatics.com to keep them shorter. The final code of this parser is used in my projects "" and "" (links comin soon).
+It is a supplementary project and article for other articles regarding Meteomatics.com to keep them shorter. The final code of this parser is used in my projects "Create an Internet Weather Station with 10 days Forecast on an ESP32 with ST7789 TFT Display (Meteomatics.com)" and "Create an Internet Weather Station with 10 days Forecast on an ESP32-C6 Supermini with an Epaper Display (Meteomatics.com)" (links coming soon).
 
 This is the accompanying repository for my article "How to parse a Meteomatics.com Weather Forecast CSV file with an ESP32" available here: https://medium.com/@androidcrypto/create-your-meteomatics-com-dynamic-api-url-for-your-esp32-weather-station-project-8a19a316edee
 
